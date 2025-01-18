@@ -1,5 +1,5 @@
-# PIR-Sensor-
-task 1 
+# PIR-Sensor-( electronics task 1 )
+
 design and pregaming of  digital and along sensor
 in this task used sensor called PIR motion sensor and its digetal sensor 
 
